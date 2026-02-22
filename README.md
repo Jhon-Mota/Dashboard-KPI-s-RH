@@ -12,4 +12,4 @@ O relatório apresenta total de banco de horas, taxa de faltas, taxa de atrasos,
 - DAX para métricas calculadas;
 - Arquivo CSV como fonte de dados.
 
-  
+![Dashboard-KPI-s-RH](https://github.com/Jhon-Mota/Dashboard-KPI-s-RH/blob/main/Dashboard-KPI-s-RH.png)
